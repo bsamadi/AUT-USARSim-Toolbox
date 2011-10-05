@@ -6,6 +6,11 @@
 % robot_Class - string, default is 'TeleMax'
 % robot_Position - 1x3 vector, default is set by USARSim
 % robot_Orientation - 1x3 vector, default is [0 0 0]
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function DriveRobotDiff(Robot,Right,Left,Normalized)
     if nargin > 4
         error('Too many input arguments');

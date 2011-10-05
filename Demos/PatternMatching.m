@@ -1,3 +1,8 @@
+% Usage: [r,c,s]=PatternMatching(Image,Pattern)
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
 
 function [r,c,s]=PatternMatching(Image,Pattern)
 extimg=Image(1:207,1:284,:);

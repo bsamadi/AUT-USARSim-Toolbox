@@ -1,3 +1,8 @@
+% Usage: [img]=ReadFrapsPic(FrapsDirPath)
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
 
 function [img]=ReadFrapsPic(FrapsDirPath)
 % FrapsDirPath is path of Fraps screanshot

@@ -1,3 +1,9 @@
+% Test all the robots
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 clc;clear all;close all;
 
 Robot=InitializeRobot('KRobot',[1,1,1.8],'MyRobot',[0,0,pi/2])

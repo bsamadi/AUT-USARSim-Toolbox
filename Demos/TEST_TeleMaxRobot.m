@@ -1,3 +1,9 @@
+% Test TeleMaxRobot
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 % addpath('D:\DropBox\Dropbox\USARSim\MatlabFiles\Toolbox');
 clc;clear all;close all;
 

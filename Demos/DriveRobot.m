@@ -8,10 +8,11 @@
 % The sixth kind controls a specified joint of the robot. The seventh kind
 % controls the angle of multiple joints of a robot, which is convenient for
 % flipper, leg, and arm control. 
-% 
-% 
-% 
-% 
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+ 
 function DriveRobot(Robot,Command,CommandType)
     if nargin > 3
         error('Too many input arguments');

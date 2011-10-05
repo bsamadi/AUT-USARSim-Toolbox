@@ -4,6 +4,11 @@
 % Exampel1  Robot=AddRobotProfile(Robot)
 % Exampel2  Robot=AddRobotProfile(Robot,'C:\UT2004\System')
 % 
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function Robot=AddRobotProfile(Robot,path)
     
     if nargin > 2

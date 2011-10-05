@@ -1,4 +1,4 @@
-%Mannage Veiwpoint
+% Mannage Veiwpoint
 %   SET {Type Camera} {Robot string} {Name string}{Client ip}
 %   This command sets the viewpoint of the specified Unreal Client to a
 % robot’s camera. The unreal client is defined by ‘{Client ip}’ where ‘ip’
@@ -14,6 +14,11 @@
 %   We can use this command at anytime and anyplace. This command can be 
 % sent either from a robot’s controller or from other applications such as
 % the ImageServer.
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 Robot=InitializeRobot();
 Cam=tcpip('10.0.0.2', 3000,'Terminator',{'CR/LF','CR/LF'});
 fprintf(Robot.Connection,'SET {Type Camera} {Robot MyRobot} {Name GCam} {Client 10.0.0.2}');

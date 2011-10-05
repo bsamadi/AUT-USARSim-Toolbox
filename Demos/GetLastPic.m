@@ -1,3 +1,9 @@
+% Get the latest picture
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 clear all
 Path='E:/Fraps/Screenshots';%path of Fraps screanshot
 

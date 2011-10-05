@@ -10,6 +10,11 @@
 % Exampel ControllMisPkg(Robot,'TeleMaxArm',[2 1],[pi/2,pi],[0,1])
 % 
 % 
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function ControllMisPkg(Robot,MissionName,Joints,Value,Order)
     if nargin > 5
         error('Too many input arguments');

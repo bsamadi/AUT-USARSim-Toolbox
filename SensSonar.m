@@ -1,4 +1,9 @@
 % [Names,Range]=SensSonar(Robot)
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function [Names,Range]=SensSonar(Robot)
     while(Robot.Connection.BytesAvailable>0)
         fread(Robot.Connection,Robot.Connection.BytesAvailable);

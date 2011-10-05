@@ -1,4 +1,9 @@
 %[Location,Orientation,Time,GroundTruth]=SensGroundTruth(Robot)
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function [Location,Orientation,Time,GroundTruth]=SensGroundTruth(Robot)
     while(Robot.Connection.BytesAvailable>0)
         fread(Robot.Connection,Robot.Connection.BytesAvailable);

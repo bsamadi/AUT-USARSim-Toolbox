@@ -1,6 +1,11 @@
 % DriveJoints(Robot,Name,Value,Steer,Order)
 % Drive Robots joint
 % NOT TESTED
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function DriveMultipleJoints(Robot,Joints,Value)
     if nargin ~= 3
         error('Not correct input arguments Please enter Robot Joints Name & Value Of Joints ');

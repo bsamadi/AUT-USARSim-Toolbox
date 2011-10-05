@@ -28,6 +28,10 @@ function [q1 q2 d3 q4 q5 q6] = Inversekinematik(x,y,z)
 % [       0,        0,  0,          1]
 % t4e=[1 0 0 0;0 1 0 0;0 0 1 0.8339;0 0 0 1];
 
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 % **************************************************
 % radius
 r=sqrt(x^2+y^2);        

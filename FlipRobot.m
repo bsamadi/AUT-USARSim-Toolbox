@@ -8,6 +8,10 @@
 % if you dont input this arguman the default is to try flip to its 
 % ‘wheels down’ position.
 
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function FlipRobot(Robot,Flip)
     
     default='True';

@@ -1,5 +1,10 @@
 % DriveSkidSteer(Robot,Right,Left,Normalized,Flip,Light)
 % Drive Robot By Skid Steer (Diffrential Mode)
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function DriveSkidSteer(Robot,Right,Left,Normalized,Flip,Light)
     if nargin > 6
         error('Too many input arguments');

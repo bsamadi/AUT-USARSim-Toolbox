@@ -1,5 +1,9 @@
 %NOT TESTED
 
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function ControllViewPort(Robot,ViewNum,View1,View2,View3,View4)
     if nargin > 6
         error('Too many input arguments');

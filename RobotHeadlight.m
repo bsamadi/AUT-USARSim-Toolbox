@@ -6,6 +6,11 @@
 % Light can be 'OFF' or 'FALSE' or 0 to turn off the headlight and can be
 % 'ON' or 'True' or 1 to turn on the headlight if you dont input this
 % arguman the default is to turnoff the headlight
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function RobotHeadlight(Robot,Light)
     if isfield (Robot,'HLight')
         if ~Robot.NHLight

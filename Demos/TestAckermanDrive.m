@@ -1,4 +1,9 @@
-%Test Ackerman Drive
+% Test Ackerman Drive
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 % 
 % Robot=InitializeRobot('Sedan',[13,0.1,2]);
 % fprintf(Robot.Connection,'DRIVE {Speed 3.0} {FrontSteer 0.523599}');

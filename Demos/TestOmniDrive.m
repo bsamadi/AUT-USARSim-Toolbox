@@ -1,4 +1,9 @@
-%Test Omni Drive
+% Test Omni Drive
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 % Robot=InitializeRobot('Lisa',[13,0.1,1.8]);
 % pause(2)
 % fprintf(Robot.Connection,'DRIVE {WheelNumber 0} {WheelSpeed 3.14} {WheelSteer 1.5708} {WheelNumber 1} {WheelSpeed 3.14} {WheelSteer 1.5708}');

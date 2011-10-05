@@ -1,3 +1,9 @@
+% Driverobot_telemax(r,c,s)
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function Driverobot_telemax(r,c,s)
 
 bound=40

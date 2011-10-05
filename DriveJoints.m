@@ -1,6 +1,11 @@
 % DriveJoints(Robot,Name,Value,Steer,Order)
 % Drive Robots joint
 % NOT TESTED
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function DriveJoints(Robot,Name,Value,Steer,Order)
     if nargin > 5
         error('Too many input arguments');

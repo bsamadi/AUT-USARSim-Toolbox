@@ -1,4 +1,9 @@
-%Test Aerial Drive
+% Test Aerial Drive
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 % Robot=InitializeRobot('AirRobot',[13,0.1,2]);
 % pause(2)
 % fprintf(Robot.Connection,'DRIVE {AltitudeVelocity 0.2}');

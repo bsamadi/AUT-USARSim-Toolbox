@@ -1,4 +1,9 @@
 % Robot = InitializeRobot(Class,Position,Name,Orientation,RobotProfile)
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function Robot = InitializeRobot(Class,Position,Name,Orientation,RobotProfile)
     
     Defaults={'TeleMax',[0,0.1,1.8],'MyRobot',[0,0,1.5708],0};

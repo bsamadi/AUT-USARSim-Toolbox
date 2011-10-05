@@ -1,6 +1,11 @@
 %NOT TESTED
 % DriveUnderWater(Robot,Propeller,Rudder,SternPlan,Normalized,Light)
 % Drive MARINE Robot Uder Water
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function DriveUnderWater(Robot,Propeller,Rudder,SternPlan,Normalized,Light)
     if nargin > 6
         error('Too many input arguments');

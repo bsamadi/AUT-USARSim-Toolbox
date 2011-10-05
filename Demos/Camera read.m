@@ -1,3 +1,8 @@
+% Read Camera
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
 
 function [r,c,s]=Camera
 Path='C:\Images\Usar\test2';%path of Fraps screanshot

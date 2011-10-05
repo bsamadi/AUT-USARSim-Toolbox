@@ -1,5 +1,10 @@
 % DriveAckerman(Robot,Speed,FrontSteer,Normalized,Flip,RearSteer,Light)
-% Drive Robot By Ackerman methode
+% Drive Robot By Ackerman method
+
+% Amirkabir University of Tehran (Tehran Polytechnic)
+% Summer 2011
+% http://www.mechatronics3d.com
+
 function DriveAckerman(Robot,Speed,FrontSteer,Normalized,Flip,RearSteer,Light)
     if nargin > 7
         error('Too many input arguments');
